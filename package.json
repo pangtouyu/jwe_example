@@ -1,0 +1,15 @@
+{
+  "name": "jwe_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jose.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "generate-rsa-keypair": "^0.1.1",
+    "node-jose": "^0.9.5"
+  }
+}
